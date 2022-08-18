@@ -91,13 +91,28 @@ From the graph it can be seen that, Srinagar and Imphal are the two most affecte
 
 
 
+Q7) ANALYSIS OF 'TERRORIST ATTACKS ON THE BASIS OF ATTACK-TYPE' worldwide ?
+
+
+
+![image](https://user-images.githubusercontent.com/68374336/185379458-0432c447-49e4-4123-bfa5-944db2bb33cf.png)
+
+
+
+From this graph it can be seen that- most of the attacks includes Bombing/Explosions.
 
 
 
 
+Q8) ANALYSIS OF 'TERRORIST ATTACKS ON THE BASIS OF ATTACK-TYPE' in india specifically ?
 
 
 
+![image](https://user-images.githubusercontent.com/68374336/185380950-684a4b25-4d79-45d0-9a9f-766c91a0aaf6.png)
+
+
+
+From this graph it can be seen that-Bombing/Explosion and Armed Assault are the most used attack type in terrorist attacks in India.
 
 
 
