@@ -1,4 +1,4 @@
-## DATA ANALYSIS ON 'GLOBAL TERRORISM DATA'
+## DATA ANALYSIS ON --> 'GLOBAL TERRORISM DATA'
 
 #### Definition of terrorism?
 * "The threatened or actual use of illegal force and violence by a non-state actor to attain a political, economic, religious, or social goal through fear, coercion, or intimidation." 
@@ -113,6 +113,9 @@ Q8) ANALYSIS OF 'TERRORIST ATTACKS ON THE BASIS OF ATTACK-TYPE' in india specifi
 
 
 From this graph it can be seen that-Bombing/Explosion and Armed Assault are the most used attack type in terrorist attacks in India.
+
+
+
 
 
 
