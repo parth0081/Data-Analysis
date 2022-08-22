@@ -8,7 +8,7 @@ Some Questions I have tried to Answer like-
 
 Q1) HOW MANY HOTELS ARE THERE WITH 365 DAYS OF AVAILABILITY ?
 
-A1) There are total of 893 hotels which provide 365 days service.
+* A1) There are total of 893 hotels which provide 365 days service.
 
 Q2) What is the neighbourhood_group count in the dataset?
 
@@ -17,15 +17,15 @@ Q2) What is the neighbourhood_group count in the dataset?
 
 Q3) WHICH HOTEL RECEIVED THE HIGHEST NO OF REVIEWS?
 
-A3)  THE HOTEL WHICH GOT THE HIGHEST NO OF REVIEWS IS HAVING HOST NAME AS 'Maya'.
+* A3)  THE HOTEL WHICH GOT THE HIGHEST NO OF REVIEWS IS HAVING HOST NAME AS 'Maya'.
 
 Q4) WHICH HOTEL HAS HIGHEST NO OF REVIEWS PER  MONTH IN THE DATABASE?
  
-A4) The Hotel which has the highest number_of_reviews has the host name as Row NYC.
+* A4) The Hotel which has the highest number_of_reviews has the host name as Row NYC.
 
 Q5) WHICH HOTEL PRICE WAS THE HIGHEST IN ALL THE DATABASE?
 
-A5) The hotel which is having the highest price of 10000 USD is having host name as Jelena.
+* A5) The hotel which is having the highest price of 10000 USD is having host name as Jelena.
 
 Q6) What is the room_type count in the dataset?
 
