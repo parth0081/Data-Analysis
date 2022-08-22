@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/68374336/185440581-44053f64-1f6b-4892-9e4e-df21d7a61b47.png)
+![image](https://user-images.githubusercontent.com/68374336/185919740-7ae9789f-e9e1-4298-a4e6-a400b765fb0e.png)
 
 
 This is a historical dataset on the modern Olympic Games, including all the Games from Athens 1896 to Rio 2016. This data has been scraped from www.sports-reference.com in May 2018.
@@ -9,4 +9,15 @@ The Olympic symbol â€“ widely known throughout the world as the Olympic rings â€
 
 
 
+![image](https://user-images.githubusercontent.com/68374336/185919583-89f1d732-8571-49de-a71e-133f9ba7b55a.png)
+
+
 Note that the Winter and Summer Games were held in the same year up until 1992. After that, they staggered them such that Winter Games occur on a four year cycle starting with 1994, then Summer in 1996, then Winter in 1998, and so on. A common mistake people make when analyzing this data is to assume that the Summer and Winter Games have always been staggered.
+
+
+## DEPLOYMENT
+
+I have also deployed my Streamlit app (of this project) to Heroku also.
+
+#### Link to the website (deployed app)-
+*https://olympic-by-parth.herokuapp.com/
