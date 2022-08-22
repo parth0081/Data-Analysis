@@ -19,5 +19,4 @@ Note that the Winter and Summer Games were held in the same year up until 1992. 
 
 I have also deployed my Streamlit app (of this project) to Heroku also.
 
-#### Link to the website (deployed app)-
-*https://olympic-by-parth.herokuapp.com/
+#### Link to the website (deployed app)- *https://olympic-by-parth.herokuapp.com/
